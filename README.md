@@ -92,4 +92,3 @@ The produced samples follow realistic ranges and do not show random noise or col
 ## Conclusion
 The project demonstrates that GANs can model complex data distributions **without requiring an explicit mathematical formula**.  
 The learned generator can produce new samples that closely resemble the transformed dataset.
-# Learning_Probability_Density_Functions_using_data_only_assignment
